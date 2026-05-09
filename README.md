@@ -225,7 +225,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Microsoft-Data%20Science-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Microsoft-AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src=" https://img.shields.io/badge/AWS-AI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-AI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/NVIDIA-AI%20Technical%20Curriculum-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Cloud%20Solution-Design%20%26%20Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
